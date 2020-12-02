@@ -1,0 +1,10 @@
+C:\Users\eduar\source\repos\MenuContextual\MenuContextual\bin\Debug\MenuContextual.exe.config
+C:\Users\eduar\source\repos\MenuContextual\MenuContextual\bin\Debug\MenuContextual.exe
+C:\Users\eduar\source\repos\MenuContextual\MenuContextual\bin\Debug\MenuContextual.pdb
+C:\Users\eduar\source\repos\MenuContextual\MenuContextual\obj\Debug\MenuContextual.csprojAssemblyReference.cache
+C:\Users\eduar\source\repos\MenuContextual\MenuContextual\obj\Debug\MenuContextual.Form1.resources
+C:\Users\eduar\source\repos\MenuContextual\MenuContextual\obj\Debug\MenuContextual.Properties.Resources.resources
+C:\Users\eduar\source\repos\MenuContextual\MenuContextual\obj\Debug\MenuContextual.csproj.GenerateResource.cache
+C:\Users\eduar\source\repos\MenuContextual\MenuContextual\obj\Debug\MenuContextual.csproj.CoreCompileInputs.cache
+C:\Users\eduar\source\repos\MenuContextual\MenuContextual\obj\Debug\MenuContextual.exe
+C:\Users\eduar\source\repos\MenuContextual\MenuContextual\obj\Debug\MenuContextual.pdb
